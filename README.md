@@ -1,4 +1,6 @@
 # readme
 
 #ライセンス
-　MIT
+　MIT license
+ 
+#使用方法
