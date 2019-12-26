@@ -1,4 +1,6 @@
 /*
+Copyright(c) 2019 Taiga Nakai
+
 MIT License
 
 Copyright (c) 2019 Taiga-Nakai
