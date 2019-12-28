@@ -2,7 +2,7 @@
 
 ライセンス
 
-　MIT license
+　GPL
  
 やったこと
 
