@@ -8,7 +8,7 @@
 
 MODULE_AUTHOR("Taiga nakai");
 MODULE_DESCRIPTION("driver for LED control");
-MODULE_LICENSE("");
+MODULE_LICENSE("GPL");
 MODULE_VERSION("0.0.1");
 
 static dev_t dev;
