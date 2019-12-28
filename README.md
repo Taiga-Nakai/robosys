@@ -2,7 +2,7 @@
 
 ライセンス
 
-　GPL
+　This repository is licensed under the GPLv3 license, see LICENSE
  
 やったこと
 
